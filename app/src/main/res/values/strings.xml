@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pora Lekha Hobe</string>
+    <string name="app_tagline">Your Study &amp; Learning Portal</string>
+    <string name="website_host">poralekhahobe.page.gd</string>
+    <string name="website_url">http://poralekhahobe.page.gd/index.html</string>
+
+    <!-- Navigation & Actions -->
+    <string name="action_back">Back</string>
+    <string name="action_forward">Forward</string>
+    <string name="action_home">Home</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_share">Share page</string>
+    <string name="action_open_browser">Open in browser</string>
+    <string name="action_reader_settings">Reading settings</string>
+    <string name="action_fullscreen">Fullscreen mode</string>
+    <string name="action_exit_fullscreen">Show controls</string>
+    <string name="action_about">About app</string>
+    <string name="action_retry">Retry connection</string>
+    <string name="action_load_home">Go to home page</string>
+    <string name="action_close">Close</string>
+
+    <!-- Status & Messages -->
+    <string name="status_loading">Loading portal…</string>
+    <string name="status_offline_badge">Offline</string>
+    <string name="error_offline_title">No internet connection</string>
+    <string name="error_offline_message">Please check your Wi-Fi or mobile data connection to load Pora Lekha Hobe.</string>
+    <string name="error_page_title">Unable to reach Pora Lekha Hobe</string>
+    <string name="error_page_fallback">The site may be temporarily unreachable or your connection was interrupted.</string>
+    <string name="message_download_started">Download started</string>
+    <string name="message_download_failed">Unable to start download</string>
+    <string name="message_no_browser">No web browser available to open this link</string>
+
+    <!-- Settings & About Sheet -->
+    <string name="settings_title">Study &amp; View Preferences</string>
+    <string name="settings_text_zoom">Page text zoom</string>
+    <string name="settings_desktop_mode">Desktop site view</string>
+    <string name="settings_desktop_mode_desc">Request full desktop layout on wide screens</string>
+    <string name="settings_theme_label">App appearance</string>
+    <string name="settings_theme_system">System</string>
+    <string name="settings_theme_light">Light</string>
+    <string name="settings_theme_dark">Dark</string>
+    <string name="settings_reset_zoom">Reset to 100%</string>
+
+    <string name="about_description">Fast, distraction-free mobile companion for Pora Lekha Hobe — designed for comfortable reading, quick navigation, and seamless access on the go.</string>
+    <string name="about_portal_label">Portal URL</string>
+
+    <!-- Accessibility Content Descriptions -->
+    <string name="cd_app_logo">Pora Lekha Hobe logo</string>
+    <string name="cd_connection_secure">Secure HTTPS connection</string>
+    <string name="cd_connection_http">HTTP connection</string>
+    <string name="cd_connection_offline">No internet connection</string>
+</resources>

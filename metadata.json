@@ -1,0 +1,6 @@
+{
+  "name": "Pora Lekha Hobe",
+  "description": "Android companion app for the Pora Lekha Hobe educational web platform (poralekhahobe.page.gd).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
